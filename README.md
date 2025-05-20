@@ -1,16 +1,17 @@
-## Hi there 👋
+### 👋 Eu sou o Gabriel Eiji Fukumoto
 
-<!--
-**zFukumoto/zfukumoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+⚡ Apaixonado por tecnologia, games e desenvolvimento web  
 
-Here are some ideas to get you started:
+### 🚀 Tecnologias que estou estudando:
+- HTML e CSS
+- Python, Git e GitHub
+- Java e JavaScript (em breve)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contato
+- E-mail: gabriel.fukumoto@Outlook.com
+- LinkedIn: www.linkedin.com/in/gabrielfukumoto
+
+---
+⭐ Confira meus projetos abaixo!
+
