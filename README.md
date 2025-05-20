@@ -5,8 +5,9 @@
 </div>
  
 #
-
-<p align="left">Apaixonado por tecnologia, estudo Python, HTML e CSS, com planos para aprender Java e JavaScript. Iniciante na área, estou focado em desenvolver minhas habilidades e construir uma base sólida para, no futuro, criar projetos completos e contribuir com a comunidade.
+<div style="text-align: center;" align="center">
+  <h3>* About Me *</h3>
+<p align="center">Apaixonado por tecnologia, estudo Python, HTML e CSS, com planos para aprender Java e JavaScript. Iniciante na área, estou focado em desenvolver minhas habilidades e construir uma base sólida para, no futuro, criar projetos completos e contribuir com a comunidade.
   
 #
 
