@@ -10,7 +10,7 @@
 <p align="center">Apaixonado por tecnologia, estudo Python, HTML e CSS, com planos para aprender Java e JavaScript. Iniciante na área, estou focado em desenvolver minhas habilidades e construir uma base sólida para, no futuro, criar projetos completos e contribuir com a comunidade.
   
 #
-
+div> 
 <h3 align="left">Connect with me:</h3>
 
 <div> 
