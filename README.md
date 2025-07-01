@@ -44,9 +44,9 @@
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=zFukumoto&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=FF00F9&text_color=FFFFFF&border_radius=9&border_color=FF00F9&icon_color=FF00F9&theme=jolly" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=zFukumoto&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&theme=dracula&border_radius=9" alt="GitHub stats">
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zFukumoto&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F9&hide=html,scss,less&bg_color=000000&text_color=8B8B8B&border_radius=9&border_color=FF00F9" alt="Most Used Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zFukumoto&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&hide=html,scss,less&theme=dracula&border_radius=9" alt="Most Used Languages">
   </a>
 </div>
