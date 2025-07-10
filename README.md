@@ -44,9 +44,6 @@
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=zFukumoto&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&theme=dracula&border_radius=9" alt="GitHub stats">
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zFukumoto&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&hide=html,scss,less&theme=dracula&border_radius=9" alt="Most Used Languages">
-  </a>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=zFukumoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zFukumoto&layout=compact&langs_count=7&theme=dark"/>
 </div>
