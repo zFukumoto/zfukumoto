@@ -1,5 +1,5 @@
 # 🔥Gabriel Eiji Fukumoto
-**`Desenvolvedor Full-Stack Júnior`**
+**`Desenvolvedor Front-End Júnior`**
 
 Me chamo Gabriel Eiji Fukumoto, tenho 21 anos e sou de São Paulo Capital. Concluí o Ensino Médio na ETEC Dra. Maria Augusta e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera. Sou apaixonado por tecnologia desde criança, sempre em contato com jogos e conteúdos relacionados.
 
